@@ -7,5 +7,3 @@ Il y auras :
 - Du CSS
 - Du JS
 - Du BASH
-
-Test test
